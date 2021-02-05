@@ -1,5 +1,1 @@
-{{#each model}}
-- {{this}}
-{{/each}}
-==================
-{{hello_world}}
+console.log("{{message}}")
